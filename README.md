@@ -1,1 +1,2 @@
-KimchiBERT
+- run-config.sh로 wandb, accelerate 설정
+- run.sh로 모델 훈련

@@ -1,0 +1,1 @@
+accelerate launch train.py --output_dir=./output --config_name=./config.json --dataset_name="heegyu/kowiki-sentences" --do_train --max_seq_length=512 --overwrite_output_dir
